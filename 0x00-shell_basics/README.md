@@ -9,3 +9,4 @@
 (8)Delete the directory my_first_directory that is in the /tmp directory
 (9)a script that changes the working directory to the previous one
 (10)List all files including from /boot
+(11)Print the file iamafile in /tmp
