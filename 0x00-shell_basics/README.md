@@ -10,3 +10,4 @@
 (9)a script that changes the working directory to the previous one
 (10)List all files including from /boot
 (11)Print the file iamafile in /tmp
+(12)Create a symbolic link in /bin/ls
