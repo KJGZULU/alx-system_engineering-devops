@@ -12,3 +12,4 @@
 (11)Print the file iamafile in /tmp
 (12)Create a symbolic link in /bin/ls
 (13)copying html not including those in parent working directory
+(14)move uppercase latters to /tmp/u
